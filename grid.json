@@ -1,0 +1,239 @@
+{
+    "engineDisplacement":"3.5",
+    "engineConfiguration":"V6",
+    "team": [
+        {"Redbull Racing": {
+            "engine":"Redbull Powertrains",
+            "constructorsChampionships":"6",
+            "driversChampionships":"7"
+        }},
+        {"Mercedes AMG Petronas": {
+            "engine": "Mercedes AMG",
+            "constructorsChampionships":"7",
+            "driversChampionships":"7"            
+        }},
+        {"Ferrari": {
+            "engine": "Ferrari",
+            "constructorsChampionships":"16",
+            "driversChampionships":"15"
+        }},
+        {"Aston Martin Racing":{
+            "engine":"Mercedes AMG",
+            "constructorsChampionships":"0",
+            "driversChampionships":"0"
+        }},
+        {"Williams Racing":{
+            "engine":"Mercedes AMG",
+            "constructorsChampionships":"9",
+            "driversChampionships":"7"
+        }},
+        {"Alpine F1 Team":{
+            "engine":"Renault",
+            "constructorsChampionships":"0",
+            "driversChampionships":"0"
+        }},
+        {"McLaren F1 Team":{
+            "engine":"Mercedes AMG",
+            "constructorsChampionships":"8",
+            "driversChampionships":"12"
+        }},
+        {"Scuderia AlphaTauri":{
+            "engine":"Redbull Powertrains",
+            "constructorsChampionships":"0",
+            "driversChampionships":"0"
+        }},
+        {"Alfa Romeo F1 Team":{
+            "engine":"Ferrari",
+            "constructorsChampionships":"0",
+            "driversChampionships":"2"
+        }},
+        {"Haas F1 Team":{
+            "engine":"Ferrari",
+            "constructorsChampionships":"0",
+            "driversChampionships":"0"
+        }}
+
+    ],
+    "drivers": [
+        {"Max Verstappen": {
+            "firstName":"Max",
+            "lastName":"Verstappen",
+            "team": "Redbull Racing",
+            "number": "1",
+            "country": "Netherlands",
+            "status":"active",
+            "driversChampionships":"3"
+        }},
+        {"Sergio Perez":{
+            "firstName":"Sergio",
+            "lastName":"Perez",
+            "team":"Redbull Racing",
+            "number": "11",
+            "country": "Mexico",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Lewis Hamilton": {
+            "firstName":"Lewis",
+            "lastName":"Hamilton",
+            "team": "Mercedes AMG Petronas",
+            "number": "44",
+            "country": "United Kingdom",
+            "status":"active",
+            "driversChampionships":"7"
+        }},
+        {"George Russell":{
+            "firstName":"George",
+            "lastName":"Russell",
+            "team":"Mercedes AMG Petronas",
+            "number": "63",
+            "country": "United Kingdom",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Charles Leclerc": {
+            "firstName":"Charles",
+            "lastName":"Leclerc",
+            "team": "Ferrari",
+            "number": "16",
+            "country": "Monaco",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Carlos Sainz":{
+            "firstName":"Carlos",
+            "lastName":"Sainz",
+            "team":"Ferrari",
+            "number": "55",
+            "country": "Spain",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Fernando Alonso": {
+            "firstName":"Fernando",
+            "lastName":"Alonso",
+            "team": "Aston Martin Racing",
+            "number": "5",
+            "country": "Germany",
+            "status":"active",
+            "driversChampionships":"2"
+        }},
+        {"Lance Stroll":{
+            "firstName":"Lance",
+            "lastName":"Stroll",
+            "team":"Aston Martin Racing",
+            "number": "18",
+            "country": "Canada",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Alexander Albon":{
+            "firstName":"Alexander",
+            "lastName":"Albon",
+            "team":"Williams Racing",
+            "number": "23",
+            "country": "Thailand",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Logan Sargeant":{
+            "firstName":"Logan",
+            "lastName":"Sargeant",
+            "team":"Williams Racing",
+            "number":"2",
+            "country":"United States",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Kevin Magnussen":{
+            "firstName":"Kevin",
+            "lastName":"Magnussen",
+            "team":"Haas F1 Team",
+            "number": "20",
+            "country": "Denmark",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Nico Hulkenberg":{
+            "firstName":"Nico",
+            "lastName":"Hülkenberg",
+            "team":"Haas F1 Team",
+            "number": "27",
+            "country": "Germany",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Lando Norris":{
+            "firstName":"Lando",
+            "lastName":"Norris",
+            "team":"McLaren F1 Team",
+            "number": "4",
+            "country": "United Kingdom",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Daniel Ricciardo":{
+            "firstName":"Daniel",
+            "lastName":"Ricciardo",
+            "team":"Scuderia AlphaTauri",
+            "number": "3",
+            "country": "Australia",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Pierre Gasly":{
+            "firstName":"Pierre",
+            "lastName":"Gasly",
+            "team":"Alpine F1 Team",
+            "number": "10",
+            "country": "France",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Yuki Tsunoda":{
+            "firstName":"Yuki",
+            "lastName":"Tsunoda",
+            "team":"Scuderia AlphaTauri",
+            "number": "22",
+            "country": "Japan",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Esteban Ocon":{
+            "firstName":"Esteban",
+            "lastName":"Ocon",
+            "team":"Alpine F1 Team",
+            "number": "31",
+            "country": "France",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Oscar Piastri":{
+            "firstName":"Oscar",
+            "lastName":"Piastri",
+            "team":"McLaren F1 Team",
+            "number": "14",
+            "country": "Australia",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Valterri Bottas":{
+            "firstName":"Valterri",
+            "lastName":"Bottas",
+            "team":"Alfa Romeo F1 Team",
+            "number": "77",
+            "country": "Finland",
+            "status":"active",
+            "driversChampionships":"0"
+        }},
+        {"Guanyu Zhou":{
+            "firstName":"Guanyu",
+            "lastName":"Zhou",
+            "team":"Alfa Romeo F1 Team",
+            "number": "47",
+            "country": "China",
+            "status":"active",
+            "driversChampionships":"0"
+        }}
+    ]
+}
